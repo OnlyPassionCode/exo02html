@@ -1,0 +1,19 @@
+#mainTitle {
+  text-align: center;
+}
+
+.subtitles {
+  color: red;
+  font-style: italic;
+  font-weight: normal;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+
+.secondtitle {
+  color: blue;
+}
+
+body {
+  background-color: #eeeeee;
+}
